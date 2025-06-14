@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1749818324 source:c:\users\poorv\onedrive\documents\poorva\dsa\recursion\server\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
